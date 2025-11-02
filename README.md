@@ -146,5 +146,7 @@ soroban contract invoke \
 **Version**: 1.0.0  
 **Last Updated**: [Current Date]
 ## Contract Details
+CCJABGT7VCADX42OKOXLI3M5T2L36EVSSLP47BNSEFAKTIINAXWM7WUT
 ![alt text](image.png)
+
 
